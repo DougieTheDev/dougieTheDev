@@ -1,7 +1,7 @@
 ## Hi there 👋 
 
 # 💫 About Me:
-Hey, my name is Daniel and I'm a Software Engineer<br><br>Whether it’s diving into full-stack projects or building custom PCs<br>I love creating things that make an impact.<br><br>🤝 I’m always looking for help with ways to grow as a Software Engineer<br>🌱 I’m currently learning Javascript <br>⚡ I love coding, gaming, hitting the gym and exploring new tech trends
+My name is Daniel and I'm a Software Engineer<br><br>Whether it’s diving into full-stack projects or building custom PCs<br>I love creating things that make an impact.<br><br>🤝 I’m always looking for help with ways to grow as a Software Engineer<br>🌱 I’m currently learning Javascript <br>⚡ I love coding, gaming, hitting the gym and exploring new tech trends
 
 
 ## 🌐 Socials:
