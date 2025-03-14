@@ -30,3 +30,4 @@ My name is Daniel and I'm a Software Engineer<br><br>Whether it’s diving into 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dougiethedev&icon=0&color=1)](https://visitcount.itsvg.in)
+ 
