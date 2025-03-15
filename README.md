@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 My name is Daniel and I'm a Software Engineer<br><br>Whether it’s diving into full-stack projects or building custom PCs<br>I love creating things that make an impact<br><br>🤝 I’m always looking for help with ways to grow as a Software Engineer<br>🌱 I’m currently learning Javascript <br>⚡ I love coding, gaming, hitting the gym and exploring new tech trends<br>
-<a href="https://dougiethedev.netlify.app">go here</a>
+Check out my porfolio page <a href="https://dougiethedev.netlify.app">here</a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
