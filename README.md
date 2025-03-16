@@ -17,7 +17,6 @@ Check out my porfolio page <a href="https://dougiethedev.netlify.app">here</a>
 
 
 ## Github Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dougiethedev&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dougiethedev&langs_count=5&theme=tokyonight)]()
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
