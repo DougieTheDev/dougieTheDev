@@ -9,16 +9,6 @@ Check out my porfolio page <a href="https://dougiethedev.com">here</a>
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-[![](https://visitcount.itsvg.in/api?id=dougiethedev&icon=0&color=1)](https://visitcount.itsvg.in)
- 
-<h3 align="center">A passionate frontend developer from Boston</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dougiethedev&label=Profile%20views&color=0e75b6&style=flat" alt="dougiethedev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dougiethedev" alt="dougiethedev" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/dougiethedev" target="blank"><img src="https://img.shields.io/twitter/follow/dougiethedev?logo=twitter&style=for-the-badge" alt="dougiethedev" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dougiethedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dougiethedev" height="30" width="40" /></a>
