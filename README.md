@@ -12,12 +12,6 @@ Check out my porfolio page <a href="https://dougiethedev.com">here</a>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/daniel-douglas-10a274332/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/DougieTheDev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dougiethedev@gmail.com) 
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-
-
-## Github Stats
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dougiethedev&langs_count=5&theme=tokyonight)]()
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
@@ -27,7 +21,7 @@ Check out my porfolio page <a href="https://dougiethedev.com">here</a>
 ---
 [![](https://visitcount.itsvg.in/api?id=dougiethedev&icon=0&color=1)](https://visitcount.itsvg.in)
  
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Boston</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dougiethedev&label=Profile%20views&color=0e75b6&style=flat" alt="dougiethedev" /> </p>
 
