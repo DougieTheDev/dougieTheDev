@@ -1,5 +1,3 @@
-## Hi there 👋 
-
 # 💫 About Me:
 My name is Daniel and I'm a Software Engineer<br><br>Whether it’s diving into full-stack projects or building custom PCs<br>I love creating things that make an impact<br><br>🤝 I’m always looking for help with ways to grow as a Software Engineer<br>🌱 I’m currently learning Node.js <br>⚡ I love coding, gaming, hitting the gym and exploring new tech trends<br>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check out my porfolio page <a href="https://dougiethedev.com">here</a></p>
