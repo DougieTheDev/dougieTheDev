@@ -16,8 +16,6 @@ I'm currently growing through the Resilient Coders program, where I'm sharpening
 - Exploring back-end concepts like RESTful APIs and auth
 - Creating clean, responsive UIs with accessibility in mind
 - Building full-stack projects to strengthen real-world skills
-- Working on daily coding challenges 
-
 🌱 **Tech Stack & Tools**
 - **Languages**: HTML, CSS, JavaScript
 - **Frameworks & Libraries**: React, Node.js, Express
