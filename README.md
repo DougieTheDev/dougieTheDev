@@ -1,5 +1,4 @@
 
-![Alt text for screen readers](/img/dougiethedev.png)
 <img src="/img/dougiethedev.png" alt="My photo" width="200" style="border-radius: 50%;" />
 
 # 💫 About Me:
