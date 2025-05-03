@@ -19,8 +19,8 @@ I'm currently growing through the Resilient Coders program, where I'm sharpening
 
 
 🌱 **Tech Stack & Tools**
-- **Languages**: HTML, CSS, JavaScript
-- **Frameworks & Libraries**: MongoDB, Express.js, React, Node.js
+- Frontend: HTML, CSS, JavaScript
+- Backend: MongoDB, Express.js, React, Node.js
 - **Certifications**:<br>
   -- Responsive Web Design (freeCodeCamp)<br>
   -- JavaScript Data Structures and Algorithms
