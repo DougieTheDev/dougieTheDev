@@ -1,5 +1,5 @@
 
-<img src="/img/DougieTheDev.png" alt="My photo" width="100%" style="border-radius: 50%;" />
+<img src="/img/DougieTheDev.png" alt="My photo" width="100%" />
 
 # 💫 About Me:
 
