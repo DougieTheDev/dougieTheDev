@@ -8,7 +8,15 @@ I’m a first-generation Jamaican and Puerto Rican software engineer passionate 
 I'm currently growing through the Resilient Coders program, where I'm sharpening my technical skills and building projects that reflect both purpose and progress.
 
 
+🌱 **Tech Stack & Tools**
+- **Languages**: HTML, CSS, JavaScript
+- **Frameworks & Libraries**: React, Node.js, Express
+- **Tools**: Git, GitHub, VS Code, Netlify
+- **Certifications**:
+  -- Responsive Web Design (freeCodeCamp)
+  -- Javascript Data Structures and Algorithms
 
+- 
 My name is Daniel and I'm a Software Engineer<br><br>Whether it’s diving into full-stack projects or building custom PCs<br>I love creating things that make an impact<br><br>🤝 I’m always looking for help with ways to grow as a Software Engineer<br>🌱 I’m currently learning Node.js <br>⚡ I love coding, gaming, hitting the gym and exploring new tech trends<br>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check out my porfolio page <a href="https://dougiethedev.com">here</a></p>
 <picture>
