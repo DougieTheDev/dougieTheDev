@@ -2,9 +2,11 @@
 <img src="/img/DougieTheDev.png" alt="My photo" width="100%" style="border-radius: 30%;" />
 
 # 💫 About Me:
-I’m a first-generation Jamaican and Puerto Rican software engineer passionate about using tech as a tool for impact, creativity, and growth. From building 20+ computers to creating fully responsive web apps, I’ve always been drawn to solving real problems with real code.
+I’m a first-generation Jamaican and Puerto Rican software engineer passionate about using tech as a tool for impact and growth. I’ve always been drawn to solving real problems with real code.
+I'm currently growing through the Resilient Coders program, where I'm sharpening my technical skills and building projects that reflect both purpose and progress.
 
-After working closely with disadvantaged youth as a donation manager, I transitioned into tech to prove — to them and to myself — that you can build the life you want with intention and consistency. I'm currently growing through the Resilient Coders program, where I'm sharpening my technical skills and building projects that reflect both purpose and progress.
+
+
 My name is Daniel and I'm a Software Engineer<br><br>Whether it’s diving into full-stack projects or building custom PCs<br>I love creating things that make an impact<br><br>🤝 I’m always looking for help with ways to grow as a Software Engineer<br>🌱 I’m currently learning Node.js <br>⚡ I love coding, gaming, hitting the gym and exploring new tech trends<br>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check out my porfolio page <a href="https://dougiethedev.com">here</a></p>
 <picture>
