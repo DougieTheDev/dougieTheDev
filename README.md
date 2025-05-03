@@ -1,5 +1,6 @@
 
 <img src="/img/DougieTheDev.png" alt="My photo" width="100%" style="border-radius: 30%;" />
+👋🏽 Hi! My name is Daniel! But you can call me Dougie.
 
 # 💫 About Me:
 I’m a first-generation Jamaican and Puerto Rican software engineer passionate about using tech as a tool for impact and growth. I’ve always been drawn to solving real problems with real code.<br>
