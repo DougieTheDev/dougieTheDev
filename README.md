@@ -23,7 +23,7 @@ I'm currently growing through the Resilient Coders program, where I'm sharpening
 - **Frameworks & Libraries**: MongoDB, Express.js, React, Node.js
 - **Certifications**:<br>
   -- Responsive Web Design (freeCodeCamp)<br>
-  -- Javascript Data Structures and Algorithms
+  -- JavaScript Data Structures and Algorithms
 
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check out my porfolio page <a href="https://dougiethedev.com">here</a></p>
