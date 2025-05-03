@@ -18,7 +18,6 @@ I'm currently growing through the Resilient Coders program, where I'm sharpening
   -- Responsive Web Design (freeCodeCamp)
   -- Javascript Data Structures and Algorithms
 
-- 
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check out my porfolio page <a href="https://dougiethedev.com">here</a></p>
 <picture>
