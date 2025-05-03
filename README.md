@@ -20,10 +20,9 @@ I'm currently growing through the Resilient Coders program, where I'm sharpening
 
 🌱 **Tech Stack & Tools**
 - **Languages**: HTML, CSS, JavaScript
-- **Frameworks & Libraries**: React, Node.js, Express
-- **Tools**: Git, GitHub, VS Code, Netlify
-- **Certifications**:
-  -- Responsive Web Design (freeCodeCamp)
+- **Frameworks & Libraries**: MongoDB, Express.js, React, Node.js
+- **Certifications**:<br>
+  -- Responsive Web Design (freeCodeCamp)<br>
   -- Javascript Data Structures and Algorithms
 
 
