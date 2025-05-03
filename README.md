@@ -1,6 +1,6 @@
 
-![Alt text for screen readers](./img/dougiethedev.png)
-<img src="./images/dougiethedev.png" alt="My photo" width="200" style="border-radius: 50%;" />
+![Alt text for screen readers](/img/dougiethedev.png)
+<img src="/img/dougiethedev.png" alt="My photo" width="200" style="border-radius: 50%;" />
 
 # 💫 About Me:
 My name is Daniel and I'm a Software Engineer<br><br>Whether it’s diving into full-stack projects or building custom PCs<br>I love creating things that make an impact<br><br>🤝 I’m always looking for help with ways to grow as a Software Engineer<br>🌱 I’m currently learning Node.js <br>⚡ I love coding, gaming, hitting the gym and exploring new tech trends<br>
