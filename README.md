@@ -5,10 +5,17 @@
 
 👋🏽 Hi! My name is Daniel! But you can call me Dougie.
 
-I’m a first-generation Jamaican and Puerto Rican software engineer passionate about using tech as a tool for impact and growth. I’ve always been drawn to solving real problems with real code.<br>
+I’m a first-gen Jamaican and Puerto Rican software engineer passionate about using tech as a tool for impact and growth. I’ve always been drawn to solving real problems with real code.<br>
+I love contributing in more ways then just coding for projects. The amount of positive change we can make as Software Engineers, to be honest, I think that's what made me fall in love with coding.
 
 I'm currently growing through the Resilient Coders program, where I'm sharpening my technical skills and building projects that reflect both purpose and progress.
 
+🎯 What I'm Focused On Right Now
+- Sharpening my problem-solving with daily algorithm practice(Codewars, NeetCode)
+- Exploring back-end concepts like RESTful APIs and auth
+- Creating clean, responsive UIs with accessibility in mind
+- Building full-stack projects to strengthen real-world skills
+- Working on daily coding challenges 
 
 🌱 **Tech Stack & Tools**
 - **Languages**: HTML, CSS, JavaScript
