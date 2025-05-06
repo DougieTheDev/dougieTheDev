@@ -51,3 +51,4 @@ I'm currently growing through the Resilient Coders program, where I'm sharpening
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a> 
    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
 </p>
+![DougieTheDev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DougieTheDev&theme=gruvbox&hide_border=true)
